@@ -1,3 +1,11 @@
-footer {
-  background-color: black;
+.footer-area {
+  background-color: #ecca5a;
+}
+
+.top-header-area {
+  background-color: #ecca5a !important;
+}
+
+.text-right p {
+  color: black !important;
 }
