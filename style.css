@@ -581,7 +581,7 @@ input:focus {
     .single-welcome-slide .welcome-text h2 {
       font-size: 72px;
       display: block;
-      margin-bottom: 30px;
+      margin-bottom: 0px;
       color: #252525; }
       @media only screen and (min-width: 992px) and (max-width: 1199px) {
         .single-welcome-slide .welcome-text h2 {
@@ -619,7 +619,8 @@ background-color: rgb(175, 159, 88);
   .single-footer-widget .widget-title {
     font-size: 22px;
     color: #252525;
-    margin-bottom: 30px;
+    margin: 18px 0;
+    
     display: block;
     text-transform: capitalize; }
   .single-footer-widget .open-time p {
@@ -654,12 +655,13 @@ background-color: rgb(175, 159, 88);
       .single-footer-widget .social-info a:focus, .single-footer-widget .social-info a:hover {
         background-color: #bca858; }
   .single-footer-widget .contact-address p {
-    margin-bottom: 8px; }
+    margin-top: 0px;
+  line-height: 10px; }
     .single-footer-widget .contact-address p:last-child {
       margin-bottom: 0; }
   .single-footer-widget .footer-logo {
     display: block;
-    margin-bottom: 30px; }
+    margin-bottom: 0px; }
 
 .copywrite-text {
   position: relative;
