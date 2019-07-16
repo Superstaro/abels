@@ -1135,9 +1135,9 @@ border-bottom: #101010 50px solid;
     background-color: #f6f9f9; }
   .akame-our-expert-area .side-thumbnail {
     position: absolute;
-    width: 555px;
+    width: 2000px;
     height: 70%;
-    right: 50%;
+    /* right: 50%; */
     top: 0;
     z-index: -1;
     background-position: top center;
@@ -1208,13 +1208,15 @@ border-bottom: #101010 50px solid;
           box-shadow: 0 2px 40px 8px rgba(15, 15, 15, 0.15);
           color: #ffffff; }
   .single-team-member .team-member-info {
-    padding: 20px 30px; }
+    padding: 20px 30px;
+  background-color: #fed03d; }
     .single-team-member .team-member-info h5 {
       display: block;
       margin-bottom: 10px; }
     .single-team-member .team-member-info p {
       margin-bottom: 0;
       font-size: 14px; }
+      
   .single-team-member:hover, .single-team-member:focus {
     -webkit-box-shadow: 0 2px 40px 8px rgba(15, 15, 15, 0.15);
     box-shadow: 0 2px 40px 8px rgba(15, 15, 15, 0.15); }

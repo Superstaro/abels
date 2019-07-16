@@ -1,3 +1,7 @@
+body {
+  overflow-x: hidden;
+}
+
 .footer-area {
   background-color: #ecca5a;
 }
